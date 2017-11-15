@@ -1,4 +1,5 @@
 pref("extensions.titlecasethunderbird.altcmd", false);
+pref("extensions.titlecasethunderbird.ctrlz", false);
 pref("extensions.titlecasethunderbird.intpref", 0);
 pref("extensions.titlecasethunderbird.stringpref", "A string");
 

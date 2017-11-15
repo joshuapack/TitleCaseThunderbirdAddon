@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <overlay id="titlecasethunderbird-overlay"
          xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="simpleundo.js"/>
   <script src="overlay.js"/>
 
  <popup id="msgComposeContext">

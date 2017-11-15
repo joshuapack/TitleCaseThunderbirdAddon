@@ -5,4 +5,10 @@
       <radio value="true" label="enabled"/>
     </radiogroup>
   </setting>
+  <setting pref="extensions.titlecasethunderbird.ctrlz" type="radio" title="Undo Keyboard Shortcuts">
+    <radiogroup>
+      <radio value="false" label="CTRL+ALT+Z"/>
+      <radio value="true" label="CTRL+Z (This will override default behavior)"/>
+    </radiogroup>
+  </setting>
 </vbox>
