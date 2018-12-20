@@ -6,6 +6,9 @@ Support: If you find you want me to add something or you find a bug that needs f
 
 Note: Please do not post bugs or problems in review as I will actively fix them.
 
+2.6.1 Compatibility
+- Changed compatibility for all thunderbird versions
+
 2.6 Added Feature
 - Added option to turn on and off shortcut keys
 

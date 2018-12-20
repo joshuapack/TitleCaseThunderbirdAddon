@@ -3,7 +3,7 @@
   <Description about="urn:mozilla:install-manifest">
 
 		<em:name>TitleCase For Thunderbird</em:name>
-			<em:version>2.6</em:version>
+			<em:version>2.6.1</em:version>
 			<em:type>2</em:type>
 			<em:id>TitleCaseThunderbird@htdsoftware.com</em:id>
       <em:creator>Joshua Pack</em:creator>
@@ -17,7 +17,7 @@
 			 <Description>
 				<em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
 				<em:minVersion>1.0</em:minVersion>
-				<em:maxVersion>56.0</em:maxVersion>
+				<em:maxVersion>*</em:maxVersion>
 			 </Description>
 		</em:targetApplication>
 
